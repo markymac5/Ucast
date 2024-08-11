@@ -201,8 +201,8 @@ http://xmm.vampirehk.eu.org:10086/drm/OptusSport4
 http://mcktv.xyz:8080/jamesjudge2/Adam1022/74903
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",HORSE RACING
 https://tvnow.best/api/stream/jcreyes12323@gmail.com/Ceaz350909!!/livetv.epg/tvg.2.horse.racing.us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",HORSE RACING
-http://spezialstreams.eu:80/JohnWalker80/Zcuy843L/338103
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",POLSPORT
+http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV6/video.m3u8?token=AZCQS7J
 
 
 
@@ -564,9 +564,10 @@ https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",RAKUTEN TOP MOVIES
 https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FILMRISE MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",FILM RISE SCI FI
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/d658fce8-d72e-4407-ba5b-14b823553af5/5.m3u8
-
+#EXTINF:-1 tvg-name="FILMRISE MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",MOVIES
+http://thunderbolt-40gbps.com/play/D2uaRqDjRBid_KqoI8FFSkjZEYyaCDYn2CfBzU5IvyE
+#EXTINF:-1 tvg-name="FILMRISE MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIES",TNT MOVIES
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
 
 
@@ -609,6 +610,8 @@ http://wagmaott.com:8080/chemsou-adminueJVqFhEZq/wiqSEvCtIS/42113
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",NICK JNR
 http://platinumxmedia.xyz:8080/geniptvservice/4EYQYcwMU6/63652
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",BABY SHARK
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u82
 
 
 
