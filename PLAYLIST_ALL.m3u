@@ -203,7 +203,16 @@ http://mcktv.xyz:8080/jamesjudge2/Adam1022/74903
 https://tvnow.best/api/stream/jcreyes12323@gmail.com/Ceaz350909!!/livetv.epg/tvg.2.horse.racing.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",POLSPORT
 http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV6/video.m3u8?token=AZCQS7J
-
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BEIN SPORTS2
+http://cdn-easports.access.ly:25461/dicarlooo/cognato/153271
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BEIN SPORTS3
+http://cdn-easports.access.ly:25461/dicarlooo/cognato/153273
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BEIN SPORTS4
+http://cdn-easports.access.ly:25461/dicarlooo/cognato/153274
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BEIN SPORTS1
+http://n2pxlchpoisk7artf8eqbw.lista.isferorfra.me/live/sun.php?z=999&u=5RIPcogc1D&s=0791572485&id=3938&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",BEIN SPORTS
+http://mcktv.xyz:8080/jamesjudge2/Adam1022/74903http://smarters.info:80/ghg666000070/362490072491/223636
 
 
 
@@ -254,7 +263,7 @@ https://skypres.global.ssl.fastly.net/1716584516~0be75afcb034db4f7395cf37acb1a4f
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 http://190.95.220.212:8000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/fox.news.ca.m3u8
+https://tvnow.best/api/stream/vladimir.eletskyi@nitrix.io/972341/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 http://iptu.org/ch/cnninternational.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
@@ -365,7 +374,7 @@ https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/brother.na
 
 
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/usa.network.pacific.us.m3u8
+https://tvnow.best/api/stream/vladimir.eletskyi@nitrix.io/972341/livetv.epg/usa.network.pacific.us.m3u8
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
 https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/usa.network.east.us.m3u8
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",USA Network
