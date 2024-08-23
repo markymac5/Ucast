@@ -629,6 +629,10 @@ http://carcaletator.ro:8080/Dobre_Razvan/Ed6aZwgZPuJA61KdMrytWuc1qlmiEW/9168
 http://cdnx1.plusx.tv:8880/ducktv-plus/mono.m3u8?token=e724ef76257c8d258afaba03db2f05d83333
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",DUCK TV PLUS
 http://cdnua03.hls.tv/626/hls/771ce34129d13bffb786cca9ea66f34a/4825/stream.m3u8
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",BABY TV
+https://port.yuvraj49.in/ss/index.m3u8?id=1069
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",BABY TV
+http://10.110.10.65:80/funtime/funtime/2530.ts
 
 
 
