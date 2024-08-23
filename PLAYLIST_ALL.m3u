@@ -235,7 +235,7 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL O" tvg-logo="https://i.imgur.com/V6bYbVJ.jpg" group-title="MUSIC",CHANNEL O
 https://tvnow.best/api/stream/raymondsheffield@icloud.com/Raya0789@/livetv.epg/channel.o.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL O" tvg-logo="https://i.imgur.com/V6bYbVJ.jpg" group-title="MUSIC",CHANNEL O
-https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/channel.o.ze.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/90215
 #EXTINF:-1 tvg-id="" tvg-name="AFRO BEATS" tvg-logo="https://i.imgur.com/cYl44pb.jpg" group-title="MUSIC",AFRO BEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUSIC PLUS" tvg-logo="https://i.imgur.com/7LqWtUH.png" group-title="MUSIC",MUSIC PLUS
@@ -367,7 +367,7 @@ https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/brother.na
 #EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",BBN
 https://tvnow.best/api/stream/eboles68@gmail.com/516062/livetv.epg/brother.naija.ze.m3u8
 #EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",BBN XTRA
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/brother.naija.xtra.ze.m3u8
+https://tvnow.best/api/stream/ashekunemmanuel@gmail.com/318425/livetv.epg/brother.naija.ze.m3u8
 
 
 
@@ -621,7 +621,14 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 http://platinumxmedia.xyz:8080/geniptvservice/4EYQYcwMU6/63652
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",BABY SHARK
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u82
-
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",BABY SHARK
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",DUCK TV
+http://carcaletator.ro:8080/Dobre_Razvan/Ed6aZwgZPuJA61KdMrytWuc1qlmiEW/9168
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",DUCK TV PLUS
+http://cdnx1.plusx.tv:8880/ducktv-plus/mono.m3u8?token=e724ef76257c8d258afaba03db2f05d83333
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",DUCK TV PLUS
+http://cdnua03.hls.tv/626/hls/771ce34129d13bffb786cca9ea66f34a/4825/stream.m3u8
 
 
 
