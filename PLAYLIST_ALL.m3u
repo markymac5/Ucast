@@ -620,7 +620,7 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",NICK JNR
 http://platinumxmedia.xyz:8080/geniptvservice/4EYQYcwMU6/63652
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",BABY SHARK
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u82
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",BABY SHARK
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",DUCK TV
@@ -633,6 +633,12 @@ http://cdnua03.hls.tv/626/hls/771ce34129d13bffb786cca9ea66f34a/4825/stream.m3u8
 https://port.yuvraj49.in/ss/index.m3u8?id=1069
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",BABY TV
 http://10.110.10.65:80/funtime/funtime/2530.ts
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",BABY TV
+https://port.yuvraj49.in/ss/index.m3u8?id=1069
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",MOONBUG TV
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS",MOONBUG TV
+https://d30kp0xfvvs2gr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/playlist.m3u8
 
 
 
