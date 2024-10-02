@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS",Supersports Blitz
-https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/ss.blitz.ze.m3u8
+https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/ss.blitz.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS",Supersports Blitz
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.blitz.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS",SS Premier League
@@ -266,11 +266,11 @@ http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 https://tvnow.best/api/stream/vladimir.eletskyi@nitrix.io/972341/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-https://skypres.global.ssl.fastly.net/1727025618~c27e93f7f624edbb4f2af1b00688459e/channel/28/chunks.m3u8
+http://fl2.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-https://tvnow.best/api/stream/ashekunemmanuel@gmail.com/318425/livetv.epg/cnn.international.ze.m3u8
+https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/cnn.international.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwibCI6ImE4ODhjNzg2IiwicCI6ImE4ODhjNzg2NzJlM2RlYTIiLCJjIjoiMzg2IiwidCI6ImIwZTQ4MjJlZjY2ZjM2YTNlNTIwMGZiMmE1YWNlNjZmIiwiZCI6IjI0NDI4MSIsInIiOiIyNDk1NzciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ4Ojg4ODcvODc2MC9pbmRleC5tM3U4P3R/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/bbc.news.channel.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
