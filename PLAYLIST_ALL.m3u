@@ -279,6 +279,8 @@ https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
 https://tvnow.best/api/stream/raymondsheffield@icloud.com/Raya0789@/livetv.epg/sky.news.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
 #EXTINF:-1 tvg-id="" tvg-name="Aljazeera" tvg-logo="https://i.imgur.com/8dfvAm1.png" group-title="NEWS",Aljazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -295,7 +297,7 @@ https://nqyzhmin.so:443/play/TjzX_t4UgNGuyTW-TgFV9pWMS7d30wSXrnU8Llonq6h47CPl8Pz
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.co0.png" group-title="NEWS",WION NEWS
 https://tvnow.best/api/stream/Eddie708/T990/livetv.epg/wion.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.co0.png" group-title="NEWS",NEWS
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=043f69fe-9492-11ef-829b-f0e6607d46a4&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c1e0aa6-ba0c-4810-b948-87fdc790ac38&userId=&serverSideAds=true
+http://doubleclicktv.live/70376812/52663544/277178
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://i.imgur.com/Z.png" group-title="NEWS",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RT" tvg-logo="https://i.imgur.comz30.png" group-title="NEWS",INFOWARS
