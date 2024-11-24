@@ -54,15 +54,15 @@ http://tv.trexiptv.com:8000/play/live.php?mac=00:1A:79:E2:dc:67&stream=239078&ex
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS",SKY MAIN EVENT
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/eppvjpkd.ss.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS",SKY MAIN EVENT
-http://00322.xyz:8000/coachprato/40437757/145808
+http://cdnx1.plusx.tv:4000/Sky-Sports-Main-Event/mono.m3u8?token=009fe16021a5be094e033ee2a3af20be3333
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS",SKY SPORTS NEWS
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/fdghodsfgh.ss.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS",SKY SPORTS NEWS
 http://spezialstreams.eu:80/JohnWalker80/Zcuy843L/338100
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS",SKY SPORTS PREM LEAGUE
-http://tv.tvworld.tvip.xyz:80/live/bsUfGHL2Jl9332/PORfwl0942/14742.m3u8
+http://aa.prison8break.com:8080/joaoc7/vFch9rKeyq/10826
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS",SKY SPORTS PREM LEAGUE
-http://lw902.usbx.me:34400/stream/3b3b441a8a163c35588004a21ee47c4c
+http://cdnx1.plusx.tv:4000/Sky-Sports-Premier-League/mono.m3u8?token=13ed9896455321890e2222
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS",TNT SPORTS1
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/bt.sport.1.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS",TNT SPORTS1
