@@ -217,8 +217,6 @@ http://goiptv.co:8080/live:mohamadnoor697/MOJEOP8xmf/1833
 
 #EXTINF:-1 tvg-id="" tvg-name="SOUND CITY" tvg-logo="https://i.imgur.com/YEe3NbB.png" group-title="MUSIC",SOUND CITY
 https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/soundcity.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SOUND CITY" tvg-logo="https://i.imgur.com/YEe3NbB.png" group-title="MUSIC",SOUND CITY
-https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/soundcity.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="V2BET" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSIC",V2BEAT
@@ -247,7 +245,20 @@ http://line.pro-gold.net:80/F91VGZPDKR/WZEVL7KVJV/206001
 http://mains.services:2086/dorec14/Chuckman5525$/102451
 #EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",VEVO POP
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
-
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL O" tvg-logo="https://i.imgur.com/V6bYbVJ.jpg" group-title="MUSIC",HIT MUSIC
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/286658
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL O" tvg-logo="https://i.imgur.com/V6bYbVJ.jpg" group-title="MUSIC",MUSIC BOX
+https://iptv.prosto.tv/id916/video.m3u8?secret=mrociqc2
+#EXTINF:-1 tvg-id="" tvg-name="AFRO BEATS" tvg-logo="https://i.imgur.com/cYl44pb.jpg" group-title="MUSIC",TRACE NAIJA
+https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/trace.naija.ze.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC PLUS" tvg-logo="https://i.imgur.com/7LqWtUH.png" group-title="MUSIC",AFRO MUSIC
+http://ip.sltv.be:8080/UP6xHEj4Ew/uB7foW56vu/138273
+#EXTINF:-1 tvg-id="" tvg-name="CLUBBING TV" tvg-logo="https://i.imgur.com/UBHyeND.png" group-title="MUSIC",AFRO MUSIC
+http://dv.pkpt.xyz:8080/Hparreiras/4InYU1OjFy/79
+#EXTINF:-1 tvg-id="" tvg-name="TRACE AFRICA" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",HOT KPOP MUSIC RADIO
+https://ff.kwr3017.kr/alive/api/url.m3u8?m=url&s=wavve&i=F9501&apikey=wr24113017
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC"HOT POP MUSIC RADIO
+https://ff.kwr3017.kr/alive/api/url.m3u8?m=url&s=wavve&i=F9504&apikey=wr24113017
 
 
 
@@ -750,6 +761,10 @@ http://hdhd.tk:80/4130/4130/34026
 
 #EXTINF:-1 group-title="SUPERHEROS" tvg-logo="https://imgur.com/CiLTFno.png",24/7 SUPERHEROES MOVIES
 http://thunderbolt-40gbps.com/play/D2uaRqDjRBid_KqoI8FFSkjZEYyaCDYn2CfBzU5IvyE
+
+
+#EXTINF:-1 group-title="SUPERHEROS" tvg-logo="https://imgur.com/CiLTFno.png",24/7 MATRIX
+http://ipilzer.live:8080/SL2.WOONTV281/nze4KxPymW/401352
 
 
 
