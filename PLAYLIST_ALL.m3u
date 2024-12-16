@@ -259,6 +259,10 @@ http://dv.pkpt.xyz:8080/Hparreiras/4InYU1OjFy/79
 http://authxplus-2.xyz:2082/XPLUS2EXTRA-F4gqXo4Z6F/oAxP4t3V3q/430
 #EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://i.imgur.com/FI1Vt.png" group-title="MUSIC"TRACE CARRIBEAN
 https://nqyzhmin.so:443/play/TjzX_t4UgNGuyTW-TgFV9pWMS7d30wSXrnU8Llonq6hNbb06QyFomNBcRYb4Cjks
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://i.imgur.com/FI1Vt.png" group-title="HIT RADIO POP MUSIC
+https://www.youtube.com/watch?v=8M0AvPvPg0As
+#EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://i.imgur.com/FI1Vt.png" group-title="TOP POP MUSIC WITH LYRICS
+https://www.youtube.com/watch?v=WUVQ0BCmPGM
 
 
 
@@ -290,7 +294,6 @@ https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARISE NEWS" tvg-logo="https://i.imgur.com/lSywOu8.jpg" group-title="NEWS",ARISE NEWS
 https://www.youtube.com/watch?v=6GIVET7Rb-0
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/arise.ng.dstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARISE NEWS" tvg-logo="https://i.imgur.com/lSywOu8.jpg" group-title="NEWS",CHANNELS TV NG
 https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY NEW" tvg-logo="https://i.imguom/Zg" group-title="NEWS",SKY NEWS
@@ -312,6 +315,7 @@ http://mains.services/live/bshorty/Zv5le07a0J/5b6bdc6d-538a-4fe8-a27e-6ef626638b
 #EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/L5olAkc.png" group-title="NEWS",EURO NEWS
 https://nqyzhmin.so:443/play/TjzX_t4UgNGuyTW-TgFV9pWMS7d30wSXrnU8Llonq6h47CPl8PzBgIaMmYI4rJCb
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.co0.png" group-title="NEWS",WION NEWS
+https://www.youtube.com/watch?v=gadjsB5BkK4
 https://tvnow.best/api/stream/Eddie708/T990/livetv.epg/wion.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC" tvg-logo="https://i.imgur.co0.png" group-title="NEWS",NEWS
 http://doubleclicktv.live/70376812/52663544/277178
