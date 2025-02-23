@@ -107,7 +107,8 @@ http://vip.oct29freego.top:80/live/2409idigneg/477a8120a2f6cc76/865de564-c5e9-4e
 https://tvnow.best/api/stream/ashekunemmanuel@gmail.com/318425/livetv.epg/dazn.10.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN11
 https://nqyzhmin.so:443/play/x5S4mTKC7mP7caEJwmJu5tyRClQvNVKNyBdmzztqMEQN4X3eSUwbjeY9Bkjywk9E
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN12
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN RINGSIDE
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1e2a534-715c-495d-a4f3-2d56a6177548
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS",DAZN COMBAT
 https://jmp2.uk/PlutoTV/64df7a9a44fe100009b6ac5a-alt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS",BEIN SPORTS CANADA
@@ -158,8 +159,8 @@ http://cfsystems.io:80/CBg9A9Pg6/h9btsmsQT/6178
 http://tv.glowiptv.iptv.uno:80/6t4rPM124/zM5OmB895/23453
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="SPORTS",MUTV
 https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/mutv.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqX.png" group-title="SPORTS",CHELSEA TV
-http://cf.goldvpn.me:80/7d3992d4e6/9672da70c6/588058
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqX.png" group-title="SPORTS",CBS SPORTS
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqX.png" group-title="SPORTS",LIVERPOOL TV
 https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/liverpool.tv.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",VIAPLAY SPORTS 1
@@ -168,8 +169,8 @@ http://cdn1.itvn.io:8880/6004/mono.m3u8?token=1aa2d4caaa76fe3f502222
 https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/eleven.sports.1.pt.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ELEVEN SPORTS
 https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/eleven.sports.2.pt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",ELEVEN SPORTS
-https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/eleven.sports.3.pt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",NBC SPORTS
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FOX SPORTS
 https://lnc-fox-sports2.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS",FS1
@@ -217,14 +218,16 @@ http://goiptv.co:8080/live:mohamadnoor697/MOJEOP8xmf/1833
 https://tvnow.best/api/stream/markwilson45@gmail.com/Kyarra@1993/livetv.epg/soundcity.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE HIT
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="V2BET" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="MUSIC",V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",TRACE AFRICA
 http://sansat.net:25461/g0EubxZrbYHntr8/bRUvFzmFVNA6KuA/120311
 #EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV BASE
 https://tvnow.best/api/stream/gcapuano/232101/livetv.epg/mtv.base.rs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV BASE
-https://starlite.best/api/stream/s.miller1885@gmail.com/587360/livetv.epg/mtv.base.rs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV BIGGEST POP
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=db3aa987-9f35-4664-b523-5fe34623b36c
 #EXTINF:-1 tvg-id="" tvg-name="MTV BASE" tvg-logo="https://i.imgur.com/XxOdu7D.png" group-title="MUSIC",MTV POP
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL O" tvg-logo="https://i.imgur.com/V6bYbVJ.jpg" group-title="MUSIC",CHANNEL O
@@ -243,8 +246,8 @@ http://line.pro-gold.net:80/F91VGZPDKR/WZEVL7KVJV/206001
 http://mains.services:2086/dorec14/Chuckman5525$/102451
 #EXTINF:-1 tvg-id="" tvg-name="BET" tvg-logo="https://i.imgur.com/FIu21Vt.png" group-title="MUSIC",VEVO POP
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce912-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=48fd2d58-c66f-492e-90a6-986e95bbc2e9
-#EXTINF:-1 tvg-id="" tvg-name="CHANNEL O" tvg-logo="https://i.imgur.com/VVJ.jpg" group-title="MUSIC",MTV CHRISTMAS
-http://iptvnords.club:8080/kytYtJpU0hpp/eNN4xN1xnew7/33775
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL O" tvg-logo="https://i.imgur.com/VVJ.jpg" group-title="MUSIC",MTV SPANKING NEW
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f1066e5a-9a82-4a1b-a025-868c083394e4
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL O" tvg-logo="https://i.imgur.com/VYbVJ.jpg" group-title="MUSIC",RR
 http://iptvnords.club:8080/kytYtJpU0hpp/eNN4xN1xnew7/33779
 #EXTINF:-1 tvg-id="" tvg-name="AFRO BEATS" tvg-logo="https://i.imgur.com/c44pb.jpg" group-title="MUSIC",TRACE NAIJA
@@ -284,9 +287,7 @@ https://v16.thetvapp.to/hls/NewsmaxTV/index.m3u8?token=M2ZtbHlldG1MMnhvM3VTVlpqM
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-https://ogietv.biz.id:443/din28dii/1212344/74556
-#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-http://live.admuspeh.my/8378/index.m3u8?token=i1wSbiD3MKfw1Ugb
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
@@ -348,8 +349,8 @@ http://238629257807871931.ofd1206.xyz:80/live/QAGWXASF3G/DvmMDP7hK3tr/871931.ts
 https://youtube.com/watch?v=iEpJwprxDdk
 #EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://i.imgur.KYsz30.png" group-title="NEWS",GB NEWS
 https://live-gbnews-ssai.simplestreamcdn.com/v1/manifest/82267e84b9e5053b3fd0ade12cb1a146df74169a/gbnews-live/e4b35f19-fecb-4adc-a91d-6ece4effaec4/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://i.imgur.KYsz30.png" group-title="NEWS",GB NEWS
-https://youtube.com/watch?v=8WX6YL9JnLw
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://i.imgur.KYsz30.png" group-title="NEWS",NEWS NATION
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 
 
 
@@ -457,6 +458,10 @@ https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
 https://livehivetv.net:443/play/NSBsHDUgDyoTdeqq95otWN1r-s8UcfcHhBg0xu0DwRUTPFMvee3swqJwwXzHDjle
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT",CHANNEL 5
 https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/channel.5.uk.m3u8
+#EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",STV
+https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
+#EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",STV PLUS1
+https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stvplusone-gla-subs.m3u8
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",BEACH TV
 https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",BEACH TV
@@ -466,7 +471,7 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT",FASHION TV
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL CHANNEL
-https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/travel.us.east.us.m3u8
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",TRAVEL CHANNEL
 https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/travel.channel.uk.m3u8
 #EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT",BEACH SHOW 
@@ -510,7 +515,7 @@ https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",ALLIEN NATION
 https://lnc-alien-nation.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT",ALWAYS FUNNY
-https://lnc-afv.tubi.video/playlist.m3u8
+https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="SKY PREMIER VIP" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="MOVIES",SKY CINEMA HITS
