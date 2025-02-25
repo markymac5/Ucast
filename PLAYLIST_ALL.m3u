@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS",Supersports Blitz
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/ss.blitz.ze.m3u8
+http://smgx4.maxdot.xyz:80/live/zh628789/MatPAEEaj3A/1059916.ts
 #EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS",Supersports Blitz
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.blitz.ze.m3u8
 http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3903
@@ -293,7 +293,7 @@ https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/fo
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 http://2.00322.xyz:8000/camimohu/3WW53NVHMQ/132635
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/cnn.international.ze.m3u8
+https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/cnn.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 http://iptv.prosto.tv:7000/id518/video.m3u8?secret=ps18unds
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS",BBC NEWS
@@ -462,8 +462,8 @@ https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/channe
 https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT",STV PLUS1
 https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stvplusone-gla-subs.m3u8
-#EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",BEACH TV
-https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
+#EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",BAD GIRLS CLUB
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654932fa4d6d8f00084c4723/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1b96db7-7e31-41b3-b84a-e4af6f3435f5
 #EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT",BEACH TV
 http://kuchini.site:8080/xhevahir2022/bTUNuQxGfD64wgMZ/296655
 #EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT",FASHION TV
