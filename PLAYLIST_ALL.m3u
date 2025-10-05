@@ -518,64 +518,23 @@ https://lnc-alien-nation.tubi.video/playlist.m3u8
 https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="SKY PREMIER VIP" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="MOVIE CH",SKY CINEMA HITS
-https://tvnow.best/api/stream/Eddie708/T990/livetv.epg/sky.atlantic.uk.m3u8
-#EXTINF:-1 tvg-name="SKY PREMIER VIP" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="MOVIE CH",SKY CINEMA HITS
-https://tvnow.best/api/stream/sjmose88@gmail.com/809008/livetv.epg/sky.cinema.hits.uk.m3u8
-#EXTINF:-1 tvg-name="SKY CINEMA ACTION" tvg-id="" tvg-logo="https://i.imgur.com/bpgfiuM.png" group-title="MOVIE CH",SKY CINEMA FAMILY
-https://tvnow.best/api/stream/raymondsheffield@icloud.com/Raya0789@/livetv.epg/sky.cinema.family.uk.m3u8
-#EXTINF:-1 tvg-name="SKY CINEMA ACTION" tvg-id="" tvg-logo="https://i.imgur.com/bpgfiuM.png" group-title="MOVIE CH",SKY CINEMA ACTION
-https://tvnow.best/api/stream/Eddie708/T990/livetv.epg/sky.cinema.action.uk.m3u8
-#EXTINF:-1 tvg-name="SKY CIN SCI-FI HORROR" tvg-id="" tvg-logo="https://i.imgur.com/ey1O1Jp.png" group-title="MOVIE CH",SKY CINEMA PREMIERE
-https://tvnow.best/api/stream/raymondsheffield@icloud.com/Raya0789@/livetv.epg/sky.cinema.premiere.uk.m3u8
-#EXTINF:-1 tvg-name="SKY CIN SCI-FI HORROR" tvg-id="" tvg-logo="https://i.imgur.com/ey1O1Jp.png" group-title="MOVIE CH",SKY CINEMA COMEDY
-https://tvnow.best/api/stream/raymondsheffield@icloud.com/Raya0789@/livetv.epg/sky.cinema.comedy.uk.m3u8
-#EXTINF:-1 tvg-name="SKY CINEMA FAMILY" tvg-id="" tvg-logo="https://i.imgur.com/83Ryq7C.png" group-title="MOVIE CH",SKY CINEMA HORROR/SCIFI
-https://tvnow.best/api/stream/raymondsheffield@icloud.com/Raya0789@/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8
-#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIE CH",SKY DRAMA AND ROMANCE
-https://tvnow.best/api/stream/raymondsheffield@icloud.com/Raya0789@/livetv.epg/sky.cinema.drama.uk.m3u8
-#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIE CH",SKY CINEMA GREATS
-https://tvnow.best/api/stream/raymondsheffield@icloud.com/Raya0789@/livetv.epg/sky.cinema.greats.uk.m3u8
-#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIE CH",SKY CINEMA THRILLER
-https://tvnow.best/api/stream/raymondsheffield@icloud.com/Raya0789@/livetv.epg/sky.cinema.thriller.uk.m3u8
+
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",MBC2
-http://echo.solanaflix.com:8080/play/hPMnXjp4bDDKI9YYpkc11R-mrH4RCxtw7oJP2qJZXo1vKRyg9q_Hvw04qPklCPo5
-#EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",EBONY TV
-https://lnc-ebony-tv.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-name="MNET" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIE CH",MNET
-http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116526
+http://213.57.91.138:8000/play/a05k
 #EXTINF:-1 tvg-name="MNET" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIE CH",MNET
 http://sharkiptv.vip:900/8601665500/9241027673/353442
 #EXTINF:-1 tvg-name="MNET1" tvg-id="" tvg-logo="https://i.imgur.com/Bn6Z37a.png" group-title="MOVIE CH",MNET ACTION
 https://tvnow.best/api/stream/Eddie708/T990/livetv.epg/m.net.movies.action.ze.m3u8
-#EXTINF:-1 tvg-name="MNET1" tvg-id="" tvg-logo="https://i.imgur.com/Bn6Z37a.png" group-title="MOVIE CH",MNET ACTION
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/m.net.movies.action.ze.m3u8
 #EXTINF:-1 tvg-name="MNET1" tvg-id="" tvg-logo="https://i.imgur.com/Bn6Z37a.png" group-title="MOVIE CH",MNET1
 http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/32140
-#EXTINF:-1 tvg-name="MNET2" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIE CH",MNET ACTION PLUS
-https://tvnow.best/api/stream/Eddie708/T990/livetv.epg/m.net.movies.action.plus.ze.m3u8
 #EXTINF:-1 tvg-name="MNET2" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIE CH",MNET ACTION PLUS
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/m.net.movies.action.plus.ze.m3u8
 #EXTINF:-1 tvg-name="MNET2" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIE CH",MNET2
 http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/16.ts
 #EXTINF:-1 tvg-name="MNET3" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIE CH",MNET AL STARS
 https://tvnow.best/api/stream/raymondsheffield@icloud.com/Raya0789@/livetv.epg/m.net.movies.all.stars.ze.m3u8
-#EXTINF:-1 tvg-name="MNET3" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIE CH",MNET ALL STARS
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/m.net.movies.all.stars.ze.m3u8
-#EXTINF:-1 tvg-name="MNET4" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIE CH",MNET4
-http://platinumxmedia.xyz:8080/geniptvservice/4EYQYcwMU6/63646
 #EXTINF:-1 tvg-name="MNET4" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIE CH",MNET4
 http://sharkiptv.vip:900/8601665500/9241027673/35344
-#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIE CH",eMovies
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/eMovies.ze.m3u8
-#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIE CH",eMovies
-http://tsmu.25zlma.net:2082/rokh2018_724894/dzuutBWO/265796
-#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIE CH",eMovies Extra
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/eMovies.extra.ze.m3u8
-#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIE CH",eMovies Extra
-http://tsmu.25zlma.net:2082/rokh2018_724894/dzuutBWO/265797
-#EXTINF:-1 tvg-name="NEW MOVIE" tvg-id="" tvg-logo="https://i.img" group-title="MOVIE CH",NEW MOVIE
-https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
 #EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIE CH",BEIN MOVIE2 
 http://iptvmedia.live:8080/F17165/97b626a6/1270
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",MBC MAX
@@ -584,37 +543,6 @@ http://streama.cc:80/Wiled123/11223344/37843
 http://streama.cc:80/Wiled123/11223344/37840
 #EXTINF:-1 tvg-name="MOVIES NOW" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",PEACOCK SERIES
 http://supkartt.xyz:80/nganmouboris16/9555HG2/1055037
-#EXTINF:-1 tvg-name="MOVIES NOW" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",MOVIES NOW
-http://171297380789818451.napgoto413.xyz:80/play/vi812558/V6NmjJnCXFuA/818451.ts
-#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",OSN MOVIES BOX OFFICE2
-https://neczmabfa.to:443/play/x5S4mTKC7mP7caEJwmJu5tyRClQvNVKNyBdmzztqMETa-5PE6_zshMGZI-50ksSM
-#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",OSN MOVIES BOX OFFICE1
-http://titanhost.site:80/HSrkzmekGs/NECJHrN6ZK/517104.ts
-#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",OSN MOVIES
-https://neczmabfa.to:443/play/x5S4mTKC7mP7caEJwmJu5tyRClQvNVKNyBdmzztqMERmAiDoc8v8esIACiu7TLNs
-#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",OSN MOVIES
-https://neczmabfa.to:443/play/x5S4mTKC7mP7caEJwmJu5tyRClQvNVKNyBdmzztqMESae5NHCK4bCai6iJavv7Hb
-#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",OSN MOVIES
-http://tv.shtv.iptv.uno:80/SemiMa/mVqfT8544/5722
-#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",OSN MOVIES PREMIERE
-http://tv.shtv.iptv.uno:80/SemiMa/mVqfT8544/5721
-#EXTINF:-1 tvg-name="OSN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",OSN MOVIES FAMILY
-https://neczmabfa.to:443/play/x5S4mTKC7mP7caEJwmJu5tyRClQvNVKNyBdmzztqMERHtnQzoKZ6XmE_9Xim92E4
-#EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",RAKUTEN ACTION MOVIES
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",RAKUTEN COMEDY MOVIES
-https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",RAKUTEN FAMILY MOVIES
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",RAKUTEN TOP FREE
-https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",RAKUTEN TOP MOVIES
-https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FILMRISE MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",MOVIES
-http://thunderbolt-40gbps.com/play/D2uaRqDjRBid_KqoI8FFSkjZEYyaCDYn2CfBzU5IvyE
-#EXTINF:-1 tvg-name="FILMRISE MOVIES" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",TNT MOVIES
-https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-
 
 
 
