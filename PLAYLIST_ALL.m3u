@@ -521,6 +521,10 @@ https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",MBC2
 http://213.57.91.138:8000/play/a05k
+#EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",MBC2
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
+#EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",MBC ACTION
+http://213.57.91.138:8000/play/a05l
 #EXTINF:-1 tvg-name="MNET" tvg-id="" tvg-logo="https://i.imgur.com/1wmVMvp.jpg" group-title="MOVIE CH",MNET
 http://sharkiptv.vip:900/8601665500/9241027673/353442
 #EXTINF:-1 tvg-name="MNET1" tvg-id="" tvg-logo="https://i.imgur.com/Bn6Z37a.png" group-title="MOVIE CH",MNET ACTION
@@ -539,8 +543,6 @@ http://sharkiptv.vip:900/8601665500/9241027673/35344
 http://iptvmedia.live:8080/F17165/97b626a6/1270
 #EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",MBC MAX
 http://streama.cc:80/Wiled123/11223344/37843
-#EXTINF:-1 tvg-name="MBC2" tvg-id="" tvg-logo="https://i.imgur.com/d5gStet.png" group-title="MOVIE CH",MBC ACTION
-http://streama.cc:80/Wiled123/11223344/37840
 
 
 
