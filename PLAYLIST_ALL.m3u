@@ -1,11 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS CH",Supersports Blitz
-http://smgx4.maxdot.xyz:80/live/zh628789/MatPAEEaj3A/1059916.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqX.png" group-title="SPORTS CH",HUB PREMIER LEAGUE
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250765&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqX.png" group-title="SPORTS CH",HK NOW SPORTS EPL
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250766&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",MOVISTAR LALIGA
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250779&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ELEVEN SPORTS1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250774&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",NBC SPORTS
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",FOX SPORTS
+https://lnc-fox-sports2.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS1
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47793&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS2
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47792&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS3
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47791&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS4
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47789&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS5
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47790&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS6
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47788&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS7
+http://7vudsglx4id6ixlyr5gznm.lista.isferorfra.me/live/sun.php?z=999&u=pYsB4qtyzO&s=7439771313&id=985&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=99966&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS9
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=99965&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS2 EXTRA
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=143501&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS3 EXTRA
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=358599&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS EVENT
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=358599&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS NEWS
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=80028&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS GLOBAL
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=80027&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY MAIN EVENT
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250753&extension=m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",DIGI4K
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250784&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS CH",Supersports Blitz
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.blitz.ze.m3u8
 http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3903
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS Premier League
-http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239078
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS Premier League
 http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3906
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS Premier League
@@ -53,84 +93,22 @@ http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239083
 http://tv.trexiptv.com:8000/play/live.php?mac=00:1A:79:E2:dc:67&stream=239078&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY MAIN EVENT
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/eppvjpkd.ss.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY MAIN EVENT
-http://cdnx1.plusx.tv:4000/Sky-Sports-Main-Event/mono.m3u8?token=009fe16021a5be094e033ee2a3af20be3333
-#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY SPORTS NEWS
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/fdghodsfgh.ss.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY SPORTS NEWS
-http://spezialstreams.eu:80/JohnWalker80/Zcuy843L/338100
-#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY SPORTS PREM LEAGUE
-http://aa.prison8break.com:8080/joaoc7/vFch9rKeyq/10826
-#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY SPORTS PREM LEAGUE
-http://cdnx1.plusx.tv:4000/Sky-Sports-Premier-League/mono.m3u8?token=13ed9896455321890e2222
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS CH",TNT SPORTS1
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/bt.sport.1.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS CH",TNT SPORTS1
-https://a1xs.vip/2000021
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SPORTS CH",TNT SPORTS2
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/bt.sport.2.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS CH",TNT SPORTS2
 https://a1xs.vip/2000022
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png" group-title="SPORTS CH",TNT SPORTS3
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/bt.sport.3.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png" group-title="SPORTS CH",TNT SPORTS3
-https://a1xs.vip/2000023
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SPORTS CH",TNT SPORTS4
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/bt.sport.4.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SPORTS CH",TNT SPORTS4
 https://a1xs.vip/2000024
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SPORTS CH",TNT SPORTS5
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/bt.sport.5.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SPORTS CH",TNT SPORTS5
-https://a1xs.vip/2000031
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="https://picon-13398.kxcdn.com/btsportespn.jpg" group-title="SPORTS CH",ESPN UK
-http://caspertv.live//play/live.php?mac=00:1A:79:6F:A4:34&stream=22298&extension=ts&play_token=TQ6cftyhX8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",DAZN1
 https://tvnow.best/api/stream/ashekunemmanuel@gmail.com/318425/livetv.epg/dazn.1.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ1
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ2
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ3
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ4
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ5
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ6
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ7
-https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ8
-https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ9
-http://donelfantastic.github.io/live/skysportsNz9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS CANADA
-https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/bein.sport.canada.ca.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS 3
-http://175.107.244.52:4457/play/a06x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS 5
-http://175.107.244.52:4457/play/a06y/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS 
-http://175.107.244.52:4457/play/a070/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",TENNIS CHANNEL 
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",ESPN 
-http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS 
-http://iptv.nextnet.krd:25461/nextnet/3738/4346
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS CH",PEACOCK
 http://hardcoremedia.xyz:80/live/tfeDySJtJ2/Jph5NNby7RWS/9269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT3 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS CH",PEACOCK
-https://gohyperspeed.com/1011688362/o5EvnnitOb/600014377
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1 ARAB" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS CH",PEACOCK WWE
-http://thunderbolt-40gbps.com/play/a-MJYizOK-SLtEJfVaRwMc0jJTVYZjnH1xY8OxKODxwZlV8uy0tPjs_I8Bf_M-CG
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/ozkDfKk.png" group-title="SPORTS CH",NFL
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.wcbs.new.york.ny.us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://imgur.com/0NwmKyw.png" group-title="SPORTS CH",IMPACT WRESTLING
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Astro Supersport2" tvg-logo="https://imgur.com/0NwmKyw.png" group-title="SPORTS CH",IMPACT PLUS
-https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ASTRO SUPER SPORTS
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:D4:D5:6B&stream=640455&extension=ts&play_token=evOyU2cdNt
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ASTRO SUPER SPORTS 2
@@ -141,10 +119,6 @@ https://tvnow.best/api/stream/jmod@me.com/098249/livetv.epg/sport.tv6.pt.m3u8
 http://dontuse3.strmzz.cx:2082/live/robostreams164/fSP6gb2/1170834.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ASTRO SUPER SPORTS 3
 http://11.troya.today:34000/ch1991/mono.m3u8?token=pioner1950.CP2cYaEwspDA5Y_cT4pt6YL4U6zlXOwg2aiflfbDrxMOzE0bPuuYaazre0bOUk6h
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ASTRO SUPER SPORTS 3
-http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:D4:D5:6B&stream=640457&extension=ts&play_token=evOyU2cdNt
-#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ASTRO SUPER SPORTS 4
-http://tv.glowiptv.iptv.uno:80/6t4rPM124/zM5OmB895/23452
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ASTRO SUPER SPORTS 4
 https://sc2022.stream-link.org/tv2306.php?id=s22
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ASTRO SUPER SPORTS 5
@@ -153,58 +127,8 @@ http://cfsystems.io:80/CBg9A9Pg6/h9btsmsQT/6178
 http://tv.glowiptv.iptv.uno:80/6t4rPM124/zM5OmB895/23453
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="SPORTS CH",MUTV
 https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/mutv.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqX.png" group-title="SPORTS CH",CBS SPORTS
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqX.png" group-title="SPORTS CH",LIVERPOOL TV
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/liverpool.tv.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",VIAPLAY SPORTS 1
-http://cdn1.itvn.io:8880/6004/mono.m3u8?token=1aa2d4caaa76fe3f502222
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ELEVEN SPORTS
-https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/eleven.sports.1.pt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ELEVEN SPORTS
-https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/eleven.sports.2.pt.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",NBC SPORTS
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",FOX SPORTS
-https://lnc-fox-sports2.tubi.video/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",FS1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",FS2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",FUBO
-https://tv4.live/api/stream/ernie18301@gmail.com/Magic1016/livetv.epg/fubo.sports.us.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",FUBO
-https://lnc-fubo.tubi.video/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",OPTUS1
-http://447769.solanaflix.com:8080/TV-51442241/597774609599/113855
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",OPTUS1
-http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/25
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",sport
-http://pro-max.me:8089/live/6980173502695/6980173502695/54909.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",sports
-http://smgx4.maxdot.xyz:80/live/zh628789/MatPAEEaj3A/1059903.ts
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",POLSPORT
-http://lb.wisp.cat/lb0/PL_Polsat_Sport_Premium_PPV6/video.m3u8?token=AZCQS7J
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS2
-http://qmt340xbfgisacelvwrp25.lista.isferorfra.me/live/sun.php?z=999&u=2gR2B8kHRo&s=0502522058&id=4021&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS2
-http://1.flch.pw:8880/cremtv.com/bouyki.com/434
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS3
-http://1.flch.pw:8880/cremtv.com/bouyki.com/374
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS4
-http://1.flch.pw:8880/cremtv.com/bouyki.com/463
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS1 SD
-http://1.flch.pw:8880/cremtv.com/bouyki.com/375
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS1
-http://j2si4otpfgnetghasnvah7.lista.isferorfra.me/live/sun.php?z=999&u=pYsB4qtyzO&s=7439771313&id=3901&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS
-http://7vudsglx4id6ixlyr5gznm.lista.isferorfra.me/live/sun.php?z=999&u=pYsB4qtyzO&s=7439771313&id=985&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS
-http://ugeen.live:8080/Kaicer_VIPYX7Poz/5c7BE2/47
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS
-http://ugeen.live:8080/Kaicer_VIPYX7Poz/5c7BE2/57
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS
-http://goiptv.co:8080/live:mohamadnoor697/MOJEOP8xmf/1833
+
+
 
 
 
@@ -357,46 +281,22 @@ http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 
 #EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
 https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/africa.magic.showcase.ze.m3u8
-#EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
-https://tvnow.best/api/stream/maduchi0114@gmail.com/Barber25/livetv.epg/africa.magic.showcase.ze.m3u8
-#EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/africa.magic.showcase.ze.m3u8
-#EXTINF:-1 tvg-name="Africa Magic Urban" tvg-id="" tvg-logo="https://i.imgur.com/usExg7v.png" group-title="AFRICA",Africa Magic Urban
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/africa.magic.urban.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Urban" tvg-id="" tvg-logo="https://i.imgur.com/usExg7v.png" group-title="AFRICA",Africa Magic Urban
 http://line.crystalott.net:80/HAMZA264/5WDXDSFNT7/448309
-#EXTINF:-1 tvg-name="Africa Magic Urban" tvg-id="" tvg-logo="https://i.imgur.com/usExg7v.png" group-title="AFRICA",Africa Magic Urban
-https://tvnow.best/api/stream/eboles68@gmail.com/516062/livetv.epg/africa.magic.urban.ze.m3u8
-#EXTINF:-1 tvg-name="Africa Magic Family" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Family
-https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/africa.magic.family.ze.m3u8
-#EXTINF:-1 tvg-name="Africa Magic Family" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Family
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/africa.magic.family.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Family" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Family
 https://tvnow.best/api/stream/rkariuki/191006/livetv.epg/africa.magic.family.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Epic" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Epic
 https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/africa.magic.epic.ze.m3u8
-#EXTINF:-1 tvg-name="Africa Magic Epic" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Epic
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/africa.magic.epic.ze.m3u8
-#EXTINF:-1 tvg-name="Africa Magic Epic" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Epic
-http://zsjfbcf.mexamo.xyz:80/5124848182/9078455403/186823
-#EXTINF:-1 tvg-name="Africa Magic Yoruba" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",Africa Magic Yoruba
-https://tvnow.best/api/stream/ashekunemmanuel@gmail.com/318425/livetv.epg/africa.magic.yoruba.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Yoruba" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",Africa Magic Yoruba
 https://tvnow.best/api/stream/eboles68@gmail.com/516062/livetv.epg/brother.naija.ze.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Igbo" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",Africa Magic Igbo
 https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/africa.magic.hausa.ze.m3u8
-#EXTINF:-1 tvg-name="Africa Magic Igbo" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",Africa Magic Igbo
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/africa.magic.lgbo.ze.m3u8
 #EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",ROK
 https://tvnow.best/api/stream/eboles68@gmail.com/516062/livetv.epg/rok.ze.m3u8
 #EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",NAIJA GOLD REEL
 https://lte.wiseplayout.com/WiseM3U8_11/master.m3u8
 #EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",NOLLYWOOD
 https://edge-i.evrideo.tv/8808fff1-2262-4c92-8cf4-359adbb692ca_1000026794_HLS/manifest.m3u8
-#EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",NOLLYWOOD
-https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/1GTLPV80IOVMC6YM7ZXQ/master.m3u8
-#EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",BBN
-https://tvnow.best/api/stream/vladimir.eletskyi@nitrix.io/972341/livetv.epg/brother.naija.ze.m3u8
 #EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",BBN
 https://tvnow.best/api/stream/sjmose88@gmail.com/809008/livetv.epg/brother.naija.ze.m3u8
 #EXTINF:-1 tvg-name="ROK" tvg-id="" tvg-logo="https://i.imgur" group-title="AFRICA",BBN XTRA
@@ -406,38 +306,17 @@ https://starlite.best/api/stream/f.agyemang618@gmail.com/764378/livetv.epg/broth
 
 
 
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",USA Network
-https://tvnow.best/api/stream/ashekunemmanuel@gmail.com/318425/livetv.epg/usa.network.pacific.us.m3u8
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",USA Network
-https://tvnow.best/api/stream/dnaru/dnaru/livetv.epg/usa.network.pacific.us.m3u8
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",USA Network
-https://lb.thunderbolt-40gbps.com/play/3q4KaAA-Ye0TpjosG9WFvRIDrTO0njBmJkDS7aMw1zb3vmFereUwxeqlhjCp3M4q
+
 #EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",USA Network
 https://lb.thunderbolt-40gbps.com/play/3q4KaAA-Ye0TpjosG9WFvRIDrTO0njBmJkDS7aMw1zb3vmFereUwxeqlhjCp3M4q
 #EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",ITV1
 https://tvnow.best/api/stream/ashekunemmanuel@gmail.com/318425/livetv.epg/itv.1.uk.m3u8
-#EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",ITV1
-http://charlene-angele.ifiesta.net:8080/TV-3675040544/547388444083/199614
-#EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",ITV1
-https://flarestream.tv:443/Okrcky2233/eHh7Yp2vws/4067.ts
-#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",ITV2
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/itv.2.uk.m3u8
-#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",ITV2
-https://tvnow.best/api/stream/gibby.parra@gmail.com/451354/livetv.epg/itv.2.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",ITV2
 https://lb.thunderbolt-40gbps.com/play/3q4KaAA-Ye0TpjosG9WFvd6wQUYP_8Y9Y_R2z0L4fE3ud3YrCu7CXjPaGCKYS94Z
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",ITVBE
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/itvbe.uk.m3u8
-#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",ITVBE
-https://tvnow.best/api/stream/gegame@me.com/NoahAbrahamIbarra21/livetv.epg/itvbe.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT CH",BBC ONE SOUTH
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/bbc.one.south..964.uk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT CH",BBC ONE LONDON
-https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT CH",BBC ONE LONDON
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT CH",BBC TWO WALES
-https://tvnow.best/api/stream/hallpeter79@gmail.com/792007/livetv.epg/bbc.two.wales.uk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT CH",BBC TWO 
 https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.mpd
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="ENTERTAINMENT CH",BBC THREE
@@ -446,76 +325,6 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_
 https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/E4.uk.m3u8
 #EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",CHANNEL E4
 https://tvnow.best/api/stream/ashekunemmanuel@gmail.com/318425/livetv.epg/E4.uk.m3u8
-#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",CHANNEL 4 more
-http://194.146.44.65/live/more4/playlist.m3u8
-#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",CHANNEL 4 plus one
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4PLUS1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",CHANNEL 4
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/channel.4.uk.m3u8
-#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",CHANNEL 4 
-https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",CHANNEL 5
-https://livehivetv.net:443/play/NSBsHDUgDyoTdeqq95otWN1r-s8UcfcHhBg0xu0DwRUTPFMvee3swqJwwXzHDjle
-#EXTINF:-1 tvg-name="ITV22" tvg-id="" tvg-logo="https://i.iur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",CHANNEL 5
-https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/channel.5.uk.m3u8
-#EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",STV
-https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stv-edi-subs.m3u8
-#EXTINF:-1 tvg-name="ITV1" tvg-id="" tvg-logo="https://i.imgur.com/ozhf62i.png" group-title="ENTERTAINMENT CH",STV PLUS1
-https://csm-e-stv-eb.tls1.yospace.com/csm/extlive/stv01,prd-ml-stvplusone-gla-subs.m3u8
-#EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT CH",BAD GIRLS CLUB
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654932fa4d6d8f00084c4723/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce94-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b1b96db7-7e31-41b3-b84a-e4af6f3435f5
-#EXTINF:-1 tvg-name="TRAVEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT CH",BEACH TV
-http://kuchini.site:8080/xhevahir2022/bTUNuQxGfD64wgMZ/296655
-#EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT CH",FASHION TV
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FASHION TV" tvg-id="" tvg-logo="https://i.imgur.com/OEXSXQZ.png" group-title="ENTERTAINMENT CH",FASHION TV
-https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT CH",TRAVEL CHANNEL
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="TRAVEL CHANNEL" tvg-id="" tvg-logo="https://i.imgur.com/WP6H3XS.jpg" group-title="ENTERTAINMENT CH",TRAVEL CHANNEL
-https://tvnow.best/api/stream/losiff@zohomail.com/365Iptv28/livetv.epg/travel.channel.uk.m3u8
-#EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT CH",BEACH SHOW 
-http://30a-tv.com/beachy.m3u8
-#EXTINF:-1 tvg-name="etv extra" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT CH",BIKINI
-http://stream.perfectiptv.to:80/play/Cf3jVebc9ETOBY7YPtBG7_WquRyl74imF4Dld1bna2O1tVD5Lo1WPT8p_xxDjwi8/ts
-#EXTINF:-1 tvg-name="etv" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT CH",TRAVEL XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="etv2" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT CH",TRAVEL
-http://drsszxs.mexamo.xyz:80/Sandzakba/A2ADBBD2/181962
-#EXTINF:-1 tvg-name="comedy central" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT CH",comedy central
-http://nellie.solanaflix.com:8080/play/41rbHAGNmRM3MnGSmovLCr7CsdYPswo1CxVMHqcVqqJOUaBeQIfhD3_uxnCkwW4C
-#EXTINF:-1 tvg-name="comedy central" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT CH",comedy central
-http://chuckyguys.eu:2082/play/kRipFYw3aSjut0_dHFZd9JBagDnDRI5MnJwXPGS1trggNAuvfdML82FWoGy5P3Fk/ts
-#EXTINF:-1 tvg-name="CBS reality" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT CH",CBS Reality
-http://mains.services:2086/dorec14/Chuckman5525$/102359
-#EXTINF:-1 tvg-name="CBS reality" tvg-id="" tvg-logo="https://i.imgur.com/eDH3mCX.png" group-title="ENTERTAINMENT CH",CBS Reality
-http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/26.ts
-#EXTINF:-1 tvg-name="REAL TIME" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT CH",REAL TIME
-http://mains.services:2086/dorec14/Chuckman5525$/102380
-#EXTINF:-1 tvg-name="REAL TIME" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT CH",REAL TIME
-http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/52.ts
-#EXTINF:-1 tvg-name="SPICE" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT CH",SPICE
-http://jt-info.xyz:80/liamodwyer999@hotmail.com/6381628734/116565
-#EXTINF:-1 tvg-name="SPICE" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT CH",SPICE
-http://springtube.me:8080/Pad8p24qc6/GNA9DBbQUx/32147
-#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT CH",TLC
-http://hdstreamzz.xyz:9981/NehostingBJ1/DaiadXXPXXase/111.ts
-#EXTINF:-1 tvg-name="TLC" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT CH",TLC
-http://probox.mio4ever.eu:7575/m1roxbr0x012/gs7z2Ghs51x8q/23064
-#EXTINF:-1 tvg-name="E" tvg-id="" tvg-logo="https://i.imgur.com/E" group-title="ENTERTAINMENT CH",E
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28846
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",ADVENTURE
-https://lnc-4adventure.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",EMERGENCY
-https://lnc-4emergency.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",RAKUTEN TV SHOW
-https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",RAKUTEN TV SPOTLIGHT
-https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",ALLIEN NATION
-https://lnc-alien-nation.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",ALWAYS FUNNY
-https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
 
 
 
