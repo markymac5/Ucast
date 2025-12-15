@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="EPL",Hub Premier 1 FHD
+#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="SPORTS CH",Hub Premier 1 FHD
 https://yz.gl:443/play/1C4bgz_C8FS1picA5rw0_8gTjcQh_pprzL7OuivJC0IT3CsIDr5EykC32hweipZb
-#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="EPL",Hub Premier 1 FHD
+#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="SPORTS CH",Hub Premier 1 FHD
 http://newborne.pro:8080/paolo/gWnGsRr/86274
-#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="EPL",Hub Premier 2 FHD
+#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="SPORTS CH",Hub Premier 2 FHD
 https://yz.gl:443/play/1C4bgz_C8FS1picA5rw0_8gTjcQh_pprzL7OuivJC0KF0XvCSEGd8QDHEE84ddIj
-#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="EPL",Hub Premier 2 FHD
+#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="SPORTS CH",Hub Premier 2 FHD
 https://gohyperspeed.com/101438857/9xf8BMC8id/600012693
-#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="EPL",Hub Premier 3 FHD
+#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="SPORTS CH",Hub Premier 3 FHD
 http://newborne.pro:8080/paolo/gWnGsRr/86273
-#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="EPL",Hub Premier 3 FHD
+#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="SPORTS CH",Hub Premier 3 FHD
 https://a1xs.vip/1100043
-#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="EPL",Hub Premier 4 FHD
+#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="SPORTS CH",Hub Premier 4 FHD
 http://newborne.pro:8080/paolo/gWnGsRr/86274
-#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="EPL",Hub Premier 4 FHD
+#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="SPORTS CH",Hub Premier 4 FHD
 https://a1xs.vip/1100044
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqX.png" group-title="SPORTS CH",HUB PREMIER LEAGUE
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250765&extension=m3u8
@@ -107,8 +107,10 @@ http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239084
 http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239083
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports bkup
 http://tv.trexiptv.com:8000/play/live.php?mac=00:1A:79:E2:dc:67&stream=239078&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY SPORTS NEWS
+https://yz.gl:443/play/1C4bgz_C8FS1picA5rw0_3B-xoVbjWmdsfpyUaCsW188nUyMO0wUphh8ehdRYP_r
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY MAIN EVENT
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/eppvjpkd.ss.m3u8
+https://m.bm5.co:443/ezm3uplex/x2b4S2y8Ov/63566
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS CH",TNT SPORTS1
 http://178.33.239.54:8080/509/index.m3u8
 https://yz.gl:443/play/1C4bgz_C8FS1picA5rw0_3B-xoVbjWmdsfpyUaCsW1-PiNDB6fCn5PT2iM1Af_LB
@@ -128,8 +130,8 @@ https://a1xs.vip/2000025
 https://tvnow.best/api/stream/ashekunemmanuel@gmail.com/318425/livetv.epg/dazn.1.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ1
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS CH",PEACOCK
-http://hardcoremedia.xyz:80/live/tfeDySJtJ2/Jph5NNby7RWS/9269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS CH",FUBO
+https://livetv-fa.tubi.video/fubo/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ASTRO SUPER SPORTS
 http://1.gujaratsat.live:80/play/live.php?mac=00:1A:79:D4:D5:6B&stream=640455&extension=ts&play_token=evOyU2cdNt
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ASTRO SUPER SPORTS 2
