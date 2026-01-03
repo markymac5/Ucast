@@ -239,17 +239,17 @@ https://v16.thetvapp.to/hls/NewsmaxTV/index.m3u8?token=M2ZtbHlldG1MMnhvM3VTVlpqM
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-https://tvpass.org/live/FoxNewsChannel/sd
+http://189.50.210.3:8008/play/a072/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
-https://tvpass.org/live/FoxNewsChannel/hd
+http://ru.russkoe-iptv.com:8080/s/5006d670/fox-news-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 https://tvnow.best/api/stream/calderama6639@gmail.com/marcola1234/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-http://84.16.253.11:2082/Xplus-1-gjfQxQyYAa/bE8z41MQlx/438
+https://tvnow.best/api/stream/samp40@hotmail.com/746056/livetv.epg/cnn.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-http://cdn.admuspeh.my/8760/video.m3u8?token=jrW3wmdeQzR18WCf
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-http://ost.ru-tv.site/uPVtzdGJfdG9rZW5dIiwibCI6ImE4ZDk0MWNiIiwicCI6ImE4ZDk0MWNiNzkyYTM5ZTciLCJjIjoiMzg2IiwidCI6IjE0MDg2YTNlMzhkOTFlYWMzZGYyZTE3NWFhZGJjNDFkIiwiZCI6IjI3MTMwNiIsInIiOiIyNzY3MzQiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NC4yNi4yMDMuMjU6ODEvODc2MC92aWRlby5tM3U4P3Rva2V/video.m3u8
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163749&extension=ts&play_token=ykRIE6GwRI
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN NORTH AMERICA
+https://tvnow.best/api/stream/samp40@hotmail.com/746056/livetv.epg/cnn.international.north.america.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
 https://tvpass.org/live/CNN/sd
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS CH",BBC NEWS
