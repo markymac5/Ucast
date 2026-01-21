@@ -57,8 +57,16 @@ http://4kplus.info/live/Voltaire_219180/UMjD2dNQ/114048.ts
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=80027&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY MAIN EVENT
 http://fastrunner.live:8080/Admirsweden/tIz8jLRNPg/335
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",DIGI4K
-http://ginafelea.ddns.net:8080/BLAGA@TV/qQ3824BY/277313
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",ZIGO
+http://de.online24.pm/play/1142/623939143BE8A4B/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",ZIGO
+http://t1.juicymangoes.xyz:8080/Georgeye/cXTydatHZj/109323
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",ZIGO
+http://4thhfn.sekkd.com:80/amy6_3kpKsU/rmdgTBp2/388226
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",ZIGO
+http://4thhfn.sekkd.com:80/amy6_3kpKsU/rmdgTBp2/388225
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",ZIGO
+http://4thhfn.sekkd.com:80/amy6_3kpKsU/rmdgTBp2/388227
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",DIGI4K
 http://ginafelea.ddns.net:8080/BLAGA@TV/qQ3824BY/277314
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",DIGI4K
@@ -431,10 +439,10 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60faffc3fbbc120007fc4376/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce93-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1f776e00-4160-4945-86c6-3cb0fa0bd795
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS CH",DUCK TV
 http://carcaletator.ro:8080/Dobre_Razvan/Ed6aZwgZPuJA61KdMrytWuc1qlmiEW/9168
-#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS CH",DUCK TV PLUS
-http://cdnx1.plusx.tv:8880/ducktv-plus/mono.m3u8?token=e724ef76257c8d258afaba03db2f05d83333
-#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS CH",DUCK TV PLUS
-http://cdnua03.hls.tv/626/hls/771ce34129d13bffb786cca9ea66f34a/4825/stream.m3u8
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS CH",PBS KIDS
+http://websafety101.net:5050/SantoTU/fr7pQdRpBz/698729
+#EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS CH",PBS KIDS
+http://mains.services/live/jeffreydlarkin%40yahoo.com/Landon302%21/b787ac78-f299-4e6a-9801-68e7eac003e9.m3u8
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS CH",BABY TV
 https://port.yuvraj49.in/ss/index.m3u8?id=1069
 #EXTINF:-1 tvg-name="NICK JNR" tvg-id="" tvg-logo="https://i.imgur.com/oj2umPv.png" group-title="KIDS CH",BABY TV
