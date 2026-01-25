@@ -114,10 +114,10 @@ http://cfsystems.io:80/CBg9A9Pg6/h9btsmsQT/6178
 http://tv.glowiptv.iptv.uno:80/6t4rPM124/zM5OmB895/23453
 #EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqXxX.png" group-title="SPORTS CH",MUTV
 https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/mutv.uk.m3u8
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",USA Network
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS CH",USA Network
 http://mains.services/live/dQe4TsFrg9/9Jux5A9hh6/abff12b9-fa23-4357-bbaa-4b5c2eef5e9e.ts
-#EXTINF:-1 tvg-name="USA Network" tvg-id="" tvg-logo="https://i.imgur.com/H0o4AuS.png" group-title="ENTERTAINMENT CH",USA Network
-http://143.244.60.30/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS CH",USA Network
+http://t1.juicymangoes.xyz:8080/Georgeye/cXTydatHZj/1377
 #EXTINF:-1 tvg-id="" tvg-name="Supersports Blitz" tvg-logo="https://i.imgur.com/z9lRB7g.jpg" group-title="SPORTS CH",Supersports Blitz
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.blitz.ze.m3u8
 http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3903
@@ -165,9 +165,20 @@ http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239085
 http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239084
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Football" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Football
 http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239083
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports bkup
-http://tv.trexiptv.com:8000/play/live.php?mac=00:1A:79:E2:dc:67&stream=239078&extension=ts
-
+#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",HK NOW SPORTS6
+https://gohyperspeed.com/1011688362/o5EvnnitOb/600009960
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS1
+https://a1xs.vip/700031
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS2
+https://a1xs.vip/700032
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS3
+https://a1xs.vip/700033
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS4
+https://a1xs.vip/700034
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS5
+https://a1xs.vip/700035
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS
+https://a1xs.vip/700036
 
 
 
@@ -239,7 +250,7 @@ https://youtube.com/watch?v=y6TZHLAzg5o
 
 
 #EXTINF:-1 tvg-name="News Max" tvg-id="" tvg-logo="https://i.imgur.com/U0lOmkF.png" group-title="NEWS CH",News Max
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-newsmax-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6MzAwMTA4MjAwOH0
 #EXTINF:-1 tvg-name="News Max" tvg-id="" tvg-logo="https://i.imgur.com/U0lOmkF.png" group-title="NEWS CH",News Max
 https://v16.thetvapp.to/hls/NewsmaxTV/index.m3u8?token=M2ZtbHlldG1MMnhvM3VTVlpqMHpaM2k5Wjc3ZFFoMHhzN2xyV1VpQg==
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
@@ -251,13 +262,13 @@ http://ru.russkoe-iptv.com:8080/s/5006d670/fox-news-hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="https://i.imgur.com/CehrY3z.png" group-title="NEWS",Fox News
 https://tvnow.best/api/stream/calderama6639@gmail.com/marcola1234/livetv.epg/fox.news.ca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-https://tvnow.best/api/stream/samp40@hotmail.com/746056/livetv.epg/cnn.us.m3u8
+http://mains.services/live/jeffreydlarkin%40yahoo.com/Landon302%21/a9bd024a-94b2-402f-b575-2ee68acfbcef.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1163749&extension=ts&play_token=ykRIE6GwRI
+https://amg00803-cnnfast-amg00803c6-lg-gb-5355.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN NORTH AMERICA
 https://tvnow.best/api/stream/samp40@hotmail.com/746056/livetv.epg/cnn.international.north.america.us.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://i.imgur.com/ZKYsz30.png" group-title="NEWS",CNN
-https://tvpass.org/live/CNN/sd
+http://ost.ru-tv.site/9W3N0Yl90b2tlbl0iLCJsIjoiMzNiYjJmNTciLCJwIjoiMzNiYjJmNTcwYTRlZDM1ZiIsImMiOiIzODYiLCJ0IjoiNmQ2MmZlZmRmMGRkMDJlZDk5OTUzZGVmZjhlYzBhODQiLCJkIjoiNDQ3MjY5IiwiciI6IjQ1OTE3OCIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL214NC5tYWluY2R5LmNvbS84NzYwL3ZpZGVvLm0zdTg_dG9rZW4/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.imgur.com/W17ataP.jpg" group-title="NEWS CH",BBC NEWS
 https://youtube.com/live/HXeGpCFGu-k?si=HQ8le63lsLsIYKdz
 https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/bbc.news.channel.uk.m3u8
