@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="SPORTS CH",Hub Premier 1 FHD
-http://dhoomtv.xyz:80/P4B9TB9xR8/humongous2tonight/148158
-#EXTINF:-1  tvg-name="Hub Premier 1 FHD" tvg-id="Hub.Premier.1.sg" tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="SPORTS CH",Hub Premier 1 FHD
-http://newborne.pro:8080/paolo/gWnGsRr/86271
-#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="SPORTS CH",Hub Premier 2 FHD
-https://yz.gl:443/play/1C4bgz_C8FS1picA5rw0_8gTjcQh_pprzL7OuivJC0KF0XvCSEGd8QDHEE84ddIj
-#EXTINF:-1  tvg-name="Hub Premier 2 FHD" tvg-id="Hub.Premier.2.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="SPORTS CH",Hub Premier 2 FHD
-https://gohyperspeed.com/101438857/9xf8BMC8id/600012693
-#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="SPORTS CH",Hub Premier 3 FHD
-http://newborne.pro:8080/paolo/gWnGsRr/86273
-#EXTINF:-1  tvg-name="Hub Premier 3 FHD" tvg-id="Hub.Premier.3.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="SPORTS CH",Hub Premier 3 FHD
-https://a1xs.vip/1100043
-#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="SPORTS CH",Hub Premier 4 FHD
-http://newborne.pro:8080/paolo/gWnGsRr/86274
-#EXTINF:-1  tvg-name="Hub Premier 4 FHD" tvg-id="Hub.Premier.4.sg" tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="SPORTS CH",Hub Premier 4 FHD
-https://a1xs.vip/1100044
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqX.png" group-title="SPORTS CH",HUB PREMIER LEAGUE
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250765&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="https://imgur.com/KrkqX.png" group-title="SPORTS CH",HK NOW SPORTS EPL
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250766&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",MOVISTAR LALIGA
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250779&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",ELEVEN SPORTS1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=250774&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",NBC SPORTS
@@ -28,9 +6,9 @@ https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",FOX SPORTS
 https://lnc-fox-sports2.tubi.video/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS1
-http://4kplus.info/live/Voltaire_219180/UMjD2dNQ/114050.ts
+http://g-phonix.live:25461/ted2024/hDkWOqDwz8/9205
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS2
-http://4kplus.info/live/Voltaire_219180/UMjD2dNQ/114052.ts
+http://g-phonix.live:25461/ted2024/hDkWOqDwz8/9200
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS3
 http://4kplus.info/live/Voltaire_219180/UMjD2dNQ/2.ts
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS4
@@ -39,54 +17,32 @@ http://4kplus.info/live/Voltaire_219180/UMjD2dNQ/4.ts
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47790&extension=m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS6
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=47788&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS7
-http://7vudsglx4id6ixlyr5gznm.lista.isferorfra.me/live/sun.php?z=999&u=pYsB4qtyzO&s=7439771313&id=985&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS8
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=99966&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://i.imgur.com/GV8PpHl.png" group-title="SPORTS CH",BEIN SPORTS9
-http://4kplus.info/live/Voltaire_219180/UMjD2dNQ/114044.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT1" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS2 EXTRA
-hhttp://4kplus.info/live/Voltaire_219180/UMjD2dNQ/114045.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS3 EXTRA
-http://4kplus.info/live/Voltaire_219180/UMjD2dNQ/114046.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS EVENT
-http://4kplus.info/live/Voltaire_219180/UMjD2dNQ/114047.ts
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS NEWS
-http://4kplus.info/live/Voltaire_219180/UMjD2dNQ/114048.ts
-#EXTINF:-1 tvg-id="" tvg-name="TENNIS" tvg-logo="https://i.imgur.com/yHLZRYJ.png" group-title="SPORTS CH",BEIN SPORTS GLOBAL
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=80027&extension=m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY MAIN EVENT
-http://fastrunner.live:8080/Admirsweden/tIz8jLRNPg/335
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",ZIGO
 http://de.online24.pm/play/1142/623939143BE8A4B/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",ZIGO
 http://t1.juicymangoes.xyz:8080/Georgeye/cXTydatHZj/109323
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",ZIGO
-http://4thhfn.sekkd.com:80/amy6_3kpKsU/rmdgTBp2/388226
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",ZIGO
-http://4thhfn.sekkd.com:80/amy6_3kpKsU/rmdgTBp2/388225
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",ZIGO
-http://4thhfn.sekkd.com:80/amy6_3kpKsU/rmdgTBp2/388227
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",DIGI4K
 http://ginafelea.ddns.net:8080/BLAGA@TV/qQ3824BY/277314
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",DIGI4K
-http://ginafelea.ddns.net:8080/BLAGA@TV/qQ3824BY/277315
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",DIGI4K
-http://ginafelea.ddns.net:8080/BLAGA@TV/qQ3824BY/277316
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY SPORTS NEWS
 https://yz.gl:443/play/1C4bgz_C8FS1picA5rw0_3B-xoVbjWmdsfpyUaCsW188nUyMO0wUphh8ehdRYP_r
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY MAIN EVENT
-https://m.bm5.co:443/ezm3uplex/x2b4S2y8Ov/63566
+http://89.187.179.148:826/1368/gXwiagaXda/120351
+#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY MAIN EVENT
+http://total123.org/play/fQ83763t3CBgIUcdW4dL6usbs9mW7NNC8-0q9pvtLszMCE6-UPEYr7XZGRGQ-KlI/ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY MAIN EVENT
+http://109.104.153.220/SKY-SPORTS-MAIN-EVENT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS CH",TNT SPORTS1
-https://a1xs.vip/2000021
+http://cf.maintv4k.live/live/b057a4bc0372/7eru9e6mzm/1527617.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS CH",TNT SPORTS1
 http://boski.streamtv.to:8080/8gULQeqH3I/kbuahRdUJV/5716
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS CH",TNT SPORTS2
-http://boski.streamtv.to:8080/8gULQeqH3I/kbuahRdUJV/5715
-https://a1xs.vip/2000022
+http://cf.maintv4k.live/live/b057a4bc0372/7eru9e6mzm/1527615.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS EXTRA" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-3-uk.png" group-title="SPORTS CH",TNT SPORTS3
-https://a1xs.vip/2000023
+http://cf.maintv4k.live/live/b057a4bc0372/7eru9e6mzm/1527613.ts
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SPORTS CH",TNT SPORTS4
-http://mains.services/live/jeffreydlarkin%40yahoo.com/Landon302%21/26a00017-1496-468f-8693-93df9e1b846f.m3u8
+http://cf.maintv4k.live/live/b057a4bc0372/7eru9e6mzm/1527611.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SPORTS CH",TNT SPORTS4
+http://tv-268088.ifiesta.net/TV-19603748265481/900212776624/7052
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-2-uk.png" group-title="SPORTS CH",TNT SPORTS5
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/bt.sport.5.uk.m3u8
 https://a1xs.vip/2000025
