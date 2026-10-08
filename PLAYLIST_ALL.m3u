@@ -32,7 +32,7 @@ http://total123.org/play/fQ83763t3CBgIUcdW4dL6usbs9mW7NNC8-0q9pvtLszMCE6-UPEYr7X
 #EXTINF:-1 tvg-id="" tvg-name="SKY MAIN EVENT" tvg-logo="https://i.imgur.com/UIkSvt5.png" group-title="SPORTS CH",SKY MAIN EVENT
 http://109.104.153.220/SKY-SPORTS-MAIN-EVENT/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS CH",TNT SPORTS1
-http://cf.maintv4k.live/live/b057a4bc0372/7eru9e6mzm/1527617.ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894977&extension=ts&play_token=W2HvDO5iES
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS CH",TNT SPORTS1
 http://boski.streamtv.to:8080/8gULQeqH3I/kbuahRdUJV/5716
 #EXTINF:-1 tvg-id="" tvg-name="BT SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-Kingdom/bt-sport-1-uk.png" group-title="SPORTS CH",TNT SPORTS2
@@ -78,63 +78,11 @@ http://t1.juicymangoes.xyz:8080/Georgeye/cXTydatHZj/1377
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/ss.blitz.ze.m3u8
 http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3903
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS Premier League
-http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3906
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS Premier League
 https://tvnow.best/api/stream/calderama6639@gmail.com/marcola1234/livetv.epg/ss.premier.league.ze.m3u8
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/ss.premier.league.ze.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS Maximo
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/ss.mximo.1.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS Maximo
-http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3921
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsLiga" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Liga
-http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3907
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsLiga" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Liga
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/ss.la.liga.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsLiga" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Serial A
-http://ch01.spr24.net/24432/mpegts?token=tPvCeEye8vDCxH
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Serial A" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Serial A
-https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4559
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",SUPER SPORT FOOTBALL PLUS
-https://tvnow.best/api/stream/ajisonm@gmail.com/68852/livetv.epg/ss.football.plus.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",SUPER SPORT PSL
-http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239081
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersport grandstand
-http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239077
-https://tvnow.best/api/stream/vladimir.eletskyi@nitrix.io/972341/livetv.epg/ss.grandstand.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports box
-https://cfsystems.io:443/8HdFB2aq6u/ptVsTnua2s/4552
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Cricket
-http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239087
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Action" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Action
-http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3913
-https://tvnow.best/api/stream/vladimir.eletskyi@nitrix.io/972341/livetv.epg/ss.action.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Tennis" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Tennis
-http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3917
-https://tvnow.best/api/stream/kristydun@hotmail.com/073482/livetv.epg/ss.tennis.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Variety1
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/ss.variety.1.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Variety2
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/ss.variety.2.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Variety3
-http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239085
-#EXTINF:-1 tvg-id="" tvg-name="SuperSportsvariety" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Variety4
-http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239084
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Football" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",Supersports Football
-http://line.tvsecure.xyz:80/45e557a228/0cf32da53e46/239083
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS CH",HK NOW SPORTS6
-https://gohyperspeed.com/1011688362/o5EvnnitOb/600009960
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS1
-https://a1xs.vip/700031
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS2
-https://a1xs.vip/700032
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS3
-https://a1xs.vip/700033
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS4
-https://a1xs.vip/700034
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS5
-https://a1xs.vip/700035
-#EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY SPORTS
-https://a1xs.vip/700036
+
 
 
 
@@ -286,13 +234,7 @@ http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 
 
 #EXTINF:-1 tvg-name="MyVideo" tvg-logo="https://www.youtube.com" group-title="YouTube", Ms Rachel First sentences1
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1775225860/ei/pHfPacetIruiw-APieH5uAk/ip/188.29.127.24/id/fb50d8b22282edbe/itag/96/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D59143423%3Bdur%3D3654.402%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1757657017810474/sgovp/clen%3D1578566446%3Bdur%3D3654.350%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1757658530105892/rqh/1/hls_chunk_host/rr3---sn-aigzrn7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/782/met/1775204260,/mh/t_/mm/31,29/mn/sn-aigzrn7d,sn-aigl6nz7/ms/au,rdu/mv/m/mvi/3/pl/24/rms/au,au/initcwndbps/5177500/siu/1/bui/AUUZDGLCSH6UcLGDQd_u9kfVaoe36fGmwiuzXbp8cVOhx8QtpVO4NMmtsodpB2MLV5710f_sSw/spc/jlWavUr0PIdo3Xqd6vUyCvSNj3LCeOyDUOgvulj1jUQUKqzkpMdItfQ/vprv/1/ns/gA-w309x0sM0Uri8FCAfv8cT/playlist_type/CLEAN/dover/11/txp/1318224/mt/1775203762/fvip/4/keepalive/yes/fexp/51565116,51565682/n/gNJT2FSK3K8ccz/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,siu,bui,spc,vprv,ns,playlist_type/sig/AHEqNM4wRAIgXoqzR1XCdidz4WXKDrmub1wmd4tFOWH0x6NWDLc_i9kCIBWMtl9X-CnjLS_HcOv540enhYAuzg5T4RG2pyc5nEKo/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRgIhAPynEKo4ComYeFdlQG72jSi0hBM4yak_gMnphZYXFczDAiEAz2Sm8Rs2nEtFR4F1IgLSnhpEtcdHABMUK6xjLQE4ThQ%3D/playlist/index.m3u8
-#EXTINF:-1 tvg-name="MyVideo" tvg-logo="https://www.youtube.com" group-title="YouTube", Ms Rachel First sentences2
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773094504/ei/CPKuaYiMK4-VhcIP0anJeQ/ip/130.185.117.241/id/fb50d8b22282edbe/itag/96/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D59143423%3Bdur%3D3654.402%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1757657017810474/sgovp/clen%3D1578566446%3Bdur%3D3654.350%3Bgir%3Dyes%3Bitag%3D137%3Blmt%3D1757658530105892/rqh/1/hls_chunk_host/rr3---sn-aigzrn7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/1110/met/1773072904,/mh/t_/mm/31,29/mn/sn-aigzrn7d,sn-aigl6nz7/ms/au,rdu/mv/m/mvi/3/pl/24/rms/au,au/initcwndbps/3120000/siu/1/bui/AVNa5-xC_etBysEeVCTjiRbTzKoJGIrypjxmsrtKhE1MCWPbv_4Q8ZjXmoA7Bv2We2O4xHOS5A/spc/6dlaFNqBn2Z67qob3Q0R-Im_ApnCy9ipmr6TVlcpxeHdzMgX7OfkG8Q/vprv/1/ns/iDUitsCn2u3qsDf2Fvy6JDwT/playlist_type/CLEAN/dover/11/txp/1318224/mt/1773072593/fvip/4/keepalive/yes/fexp/51565116,51565682,51791334/n/Qoy7DbhjLcXMcw/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,siu,bui,spc,vprv,ns,playlist_type/sig/AHEqNM4wRQIhAJqnA2vCiD-rz2X_NRQXRhfIauMwIWF2LqLvlQKtc_t-AiBQmshn7Z3tjJB6NHitfTGC3gD2IXdekURV4nwnhWnQvQ%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRgIhAONuwMs1D3IrxbAvkwqvWyp9k41dT-kHKf2nmQhk7ZPjAiEAyOkNwDJC6_AHouxp0IhnNud5nB61sKl0kYDGEiOcwA8%3D/playlist/index.m3u8
-#EXTINF:-1 tvg-name="MyVideo" tvg-logo="https://www.youtube.com" group-title="YouTube", ABC Adventure
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1773109601/ei/AS2vaZyPD6v5xN8P0o_u2A0/ip/130.185.117.241/id/153fcac7c2cef925/itag/301/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/sgoap/clen%3D32552798%3Bdur%3D2011.382%3Bgir%3Dyes%3Bitag%3D140%3Blmt%3D1760946503314776%3Bxtags%3Dacont%3Doriginal:lang%3Den/sgovp/clen%3D1323315288%3Bdur%3D2011.320%3Bgir%3Dyes%3Bitag%3D299%3Blmt%3D1765568469899938/rqh/1/hls_chunk_host/rr1---sn-aigzrn7e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/cps/609/met/1773088001,/mh/Es/mm/31,29/mn/sn-aigzrn7e,sn-aigl6nzr/ms/au,rdu/mv/m/mvi/1/pl/24/rms/au,au/initcwndbps/4233750/siu/1/bui/AVNa5-zWCbZySbYvEZmh77D137toAs2WZMHEO5TI9yU9dHq_e5cgxNVdrVXDWYrFTDGsa4Rmxg/spc/6dlaFMyY_T9uX6Ky1PqrmxsRvZXQV3mPLVgTZIKaIho64f75uBt-7BMx2xEkIDyHd5G62ABKDA/vprv/1/ns/Q_ghV2VmkWtoDEeVLssrdFYT/playlist_type/CLEAN/dover/11/txp/4532534/mt/1773087664/fvip/3/keepalive/yes/fexp/51565116,51565682,51791334/n/BgCgrN8zaPmDmw/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,sgoap,sgovp,rqh,xpc,siu,bui,spc,vprv,ns,playlist_type/sig/AHEqNM4wRAIgOtMalKI24XfLjb1Jdm6tbGOrtmPdVZJ1aUbt8ULvCwYCIAeUsCDagDchvJ7H73UmXjnsMPrrtAzPp1nyDWW49lGr/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms,initcwndbps/lsig/APaTxxMwRQIgW25PlgSwHYP631_BVRLLZk4E0dA4D6TPLKan2Aciy7gCIQDP0A-BGRBCtPYHpFG_xPzuIH4zdOH0bv9S2Da6ahSDIQ%3D%3D/playlist/index.m3u8
-#EXTINF:-1 tvg-name="MyVideo" tvg-logo="https://www.youtube.com" group-title="YouTube", Nasa Tv
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1775225669/ei/5XbPaZXxNcGEmLAP352dkAw/ip/188.29.127.25/id/m3kR2KK8TEs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-aigzrnz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/playlist_duration/30/manifest_duration/30/siu/1/bui/AUUZDGJERfkQ4f1_1_E21X427sII2VLwpYp_8Rr9RunSGZ2zeBOj3aFvKnntJitGRJxLlfztew/spc/jlWave4RDUWU4aacxQy_RpsHaaI1Ryat6DfrSn4QjnEHVCaCPj6i6c0/vprv/1/ns/9keAZ_bbqKaH1t52oMvXEwQU/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/4988750/met/1775204072,/mh/L3/mm/44/mn/sn-aigzrnz7/ms/lva/mv/m/mvi/2/pl/24/rmhost/rr1---sn-aigzrnz7.googlevideo.com/rms/lva,lva/smhost/rr5---sn-2oaig5-5n.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/n/GNIyoTnfwBzrpy/mt/1775203481/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,playlist_duration,manifest_duration,siu,bui,spc,vprv,ns,reg,playlist_type/sig/AHEqNM4wRAIgRhxUwE5Tidkw8QWf52ts8855E6BljbqLjfo-Kzp1Oy8CID-zcTkgxh42Q3FeV5BbT7nC6joWBxUbXb9rGuP9Xuc8/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIgf7zD7CkQyHI5f_U7cxd4snaiJJHZkS3xLyAmt2QZiggCIQCxYe3aHUsivMtByOCWLsNwXK6fGQDEX5Ej-w-ReW7BpQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_
 
 
 
