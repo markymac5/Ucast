@@ -47,7 +47,7 @@ http://tv-268088.ifiesta.net/TV-19603748265481/900212776624/7052
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/bt.sport.5.uk.m3u8
 https://a1xs.vip/2000025
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",DAZN1
-https://tvnow.best/api/stream/ashekunemmanuel@gmail.com/318425/livetv.epg/dazn.1.ca.m3u8
+http://sor.myftp.biz:567/live/RodriOrt/0pHdnEUkGz/36279031
 #EXTINF:-1 tvg-id="" tvg-name="NBCSN" tvg-logo="https://imgur.com/QIFcDW0.png" group-title="SPORTS CH",SKY NZ1
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT2 PREMIUM" tvg-logo="https://imgur.com/PwS3aWU.png" group-title="SPORTS CH",FUBO
@@ -80,8 +80,10 @@ http://conceal.cyou:80/manutd_fan_88/q9pwSGu8r3/3903
 #EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS Premier League
 https://tvnow.best/api/stream/calderama6639@gmail.com/marcola1234/livetv.epg/ss.premier.league.ze.m3u8
 https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/ss.premier.league.ze.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS Maximo
-https://tvnow.best/api/stream/speedyrdz@yahoo.com/Speedo11/livetv.epg/ss.mximo.1.ze.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS7
+http://185.82.108.20:25468/r5PHytrSSsYt/SgZ9unxsbJQ9/212
+#EXTINF:-1 tvg-id="" tvg-name="SuperSports Premier League" tvg-logo="https://i.imgur.com/RQx4sce.png?1" group-title="SPORTS CH",SS3
+http://185.82.108.20:25468/r5PHytrSSsYt/SgZ9unxsbJQ9/212
 
 
 
@@ -239,8 +241,8 @@ https://manifest.googlevideo.com/api/manifest/hls_
 
 
 
-#EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic Showcase
-https://tvnow.best/api/stream/melina.striedinger@icloud.com/868978/livetv.epg/africa.magic.showcase.ze.m3u8
+#EXTINF:-1 tvg-name="Africa Magic Showcase" tvg-id="" tvg-logo="https://i.imgur.com/8rnXoq4.png" group-title="AFRICA",Africa Magic 
+https://amg02784-amg02784c1-distrotv-us-3394.playouts.now.amagi.tv/playlist/amg02784-nollyafricafast-nollyafricahd-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-name="Africa Magic Urban" tvg-id="" tvg-logo="https://i.imgur.com/usExg7v.png" group-title="AFRICA",Africa Magic Urban
 http://line.crystalott.net:80/HAMZA264/5WDXDSFNT7/448309
 #EXTINF:-1 tvg-name="Africa Magic Family" tvg-id="" tvg-logo="https://i.imgur.com/qaI7SuO.jpg" group-title="AFRICA",Africa Magic Family
